@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <!-- meta -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--css-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="fontello-embedded.css" />
+    <link rel="stylesheet" href="style.css" />
+
+  </head>
+  <body>
+
+    <div class="container-fluid">
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-md-12">
+              
+              <!-- inizio -->
+
+              <div class="row">
+                <div class="col-md-12" id="sentiment">
+
+
+                  <div id="sentimentresults" class="padded">
+                    <div class="row">
+                      <div class="col-md-4 col-xs-4 tcenter">
+                        <i class="sentiment-icon icon-smile big-icon"></i>
+                      </div>
+                      <div class="col-md-4 col-xs-4 tcenter">
+                        <i class="sentiment-icon icon-meh big-icon"></i>
+                      </div>
+                      <div class="col-md-4 col-xs-4 tcenter">
+                        <i class="sentiment-icon icon-frown big-icon"></i>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-4 col-xs-4 sentiment-res" id="positive"></div>
+                      <div class="col-md-4 col-xs-4 sentiment-res" id="neutral"></div>
+                      <div class="col-md-4 col-xs-4 sentiment-res" id="negative"></div>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12" id="sentiment-time">
+                </div>
+              </div>
+              <!-- fine -->
+
+
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-xs-9">
+              <a type="button" class="btn btn-primary btn-xs" id="exportData1" href="#" target="_blank">export positive sentiment</a>
+              <a type="button" class="btn btn-primary btn-xs" id="exportData2" href="#" target="_blank">export negative sentiment</a>
+              <a type="button" class="btn btn-primary btn-xs" id="exportData3" href="#" target="_blank">export neutral sentiment</a>
+            </div>
+            <div class="col-xs-3">
+              <a href="https://www.he-r.it/" target="_blank" title="Human Ecosystems Relazioni"><img src="../HER-logo-small.png" class="img-responsive pull-right" width="46" height="19" border="0" title="Human Ecosystems Relazioni" /></a>
+            </div>
+          </div>
+
+          <div class="col-xs-12 didascalia">
+            Intelligenza Artificiale in Italia, negli ultimi 30 giorni
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="1-highstock.js"></script>
+    <script src="2-highcharts-more.js"></script>
+    <script src="script.js"></script>
+
+  </body>
+</html>

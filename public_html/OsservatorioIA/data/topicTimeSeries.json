@@ -1,0 +1,4909 @@
+{
+    "results": [
+        {
+            "entity": "10giugno",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "15GIUGNO",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "17maggio",
+            "value": "9",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "21maggio",
+            "value": "7",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "4IR",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "5G",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "5G",
+            "value": "7",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "5G",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "5giugno",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "6giugno",
+            "value": "15",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "6giugno",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "6giugno",
+            "value": "15",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "6giugno",
+            "value": "9",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "6giugno",
+            "value": "11",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "8giugno",
+            "value": "16",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Accenture",
+            "value": "40",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Accenture",
+            "value": "37",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Accenture",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Accessibility",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "adas",
+            "value": "7",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "AeronauticaMilitare",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "AgendaDigitale",
+            "value": "52",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "agenti",
+            "value": "6",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "Agos",
+            "value": "17",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "AI",
+            "value": "103",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "AI",
+            "value": "120",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "AI",
+            "value": "41",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "AI",
+            "value": "48",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "AI",
+            "value": "107",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "AI",
+            "value": "149",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "AI",
+            "value": "191",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "AI",
+            "value": "212",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "AI",
+            "value": "100",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "AI",
+            "value": "58",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "AI",
+            "value": "43",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "AI",
+            "value": "101",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "AI",
+            "value": "91",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "AI",
+            "value": "157",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "AI",
+            "value": "121",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "AI",
+            "value": "82",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "AI",
+            "value": "82",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "AI",
+            "value": "71",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "AI",
+            "value": "90",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "AI",
+            "value": "158",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "AI",
+            "value": "249",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "AI",
+            "value": "124",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "AI",
+            "value": "73",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "AI",
+            "value": "159",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "AI",
+            "value": "56",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "AI",
+            "value": "109",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "AI",
+            "value": "106",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "AI",
+            "value": "139",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "AI",
+            "value": "177",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "AI",
+            "value": "88",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "AI",
+            "value": "100",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "AI",
+            "value": "57",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "AIoltreilmito",
+            "value": "7",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Airathon",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Airbus",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "AlanTuring",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "AlanTuring",
+            "value": "14",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "AlfaRomeo",
+            "value": "11",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "algoritmi",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "algoritmo",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "algoritmo",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "alternanzascuolalavoro",
+            "value": "6",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Analytics",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Analytics",
+            "value": "12",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "Analytics",
+            "value": "15",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Analytics",
+            "value": "19",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Analytics",
+            "value": "9",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Analytics",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Analytics",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Analytics",
+            "value": "10",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "Analytics",
+            "value": "14",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "ANPAL",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "app",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "AR",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Arlo",
+            "value": "14",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "artificiale",
+            "value": "15",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "artificiale",
+            "value": "6",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "artificiale",
+            "value": "6",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "artificiale",
+            "value": "8",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "artificiale",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "artificiale",
+            "value": "6",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "artificiale",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "artificiale",
+            "value": "10",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "6",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "7",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "9",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "17",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "13",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "ArtificialIntelligence",
+            "value": "10",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "ASLADirittoalFuturo",
+            "value": "10",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "assistenza",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Ast",
+            "value": "14",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "automation",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Automazione",
+            "value": "8",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Automazione",
+            "value": "11",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "autonomous",
+            "value": "9",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "autonomous",
+            "value": "6",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "autonomous",
+            "value": "7",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "autonomous",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "autonomous",
+            "value": "15",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "autonomous",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "autonomous",
+            "value": "14",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "autonomous",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "autonomous",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "autonomous",
+            "value": "12",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "autonomous",
+            "value": "19",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "autonomous",
+            "value": "12",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "autonomous",
+            "value": "20",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "autonomous",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "autonomous",
+            "value": "16",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "AutoPilot",
+            "value": "9",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "availability",
+            "value": "11",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Avery",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "aziende",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "banca",
+            "value": "9",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "banchesicurezza",
+            "value": "22",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "banchesicurezza",
+            "value": "22",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "BaseCampMilano",
+            "value": "6",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Bentivogli",
+            "value": "18",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "BIGBANG",
+            "value": "32",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "BIGBANG",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "BigData",
+            "value": "12",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "BigData",
+            "value": "17",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "BigData",
+            "value": "10",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "BigData",
+            "value": "15",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "BigData",
+            "value": "27",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "BigData",
+            "value": "25",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "BigData",
+            "value": "11",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "BigData",
+            "value": "11",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "BigData",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "BigData",
+            "value": "21",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "BigData",
+            "value": "8",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "BigData",
+            "value": "7",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "BigData",
+            "value": "36",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "BigData",
+            "value": "10",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "BigData",
+            "value": "13",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "BigData",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "BigData",
+            "value": "42",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "BigData",
+            "value": "33",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "BigData",
+            "value": "40",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "BigData",
+            "value": "41",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "BigData",
+            "value": "13",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "BigData",
+            "value": "20",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "BigData",
+            "value": "11",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "BigData",
+            "value": "16",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "BigData",
+            "value": "15",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "BigData",
+            "value": "21",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "BigData",
+            "value": "21",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "BigData",
+            "value": "7",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "BigData",
+            "value": "8",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "biobots",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Bitron",
+            "value": "7",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "blockchain",
+            "value": "26",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "blockchain",
+            "value": "8",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "blockchain",
+            "value": "17",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "blockchain",
+            "value": "85",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "blockchain",
+            "value": "60",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "blockchain",
+            "value": "29",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "blockchain",
+            "value": "12",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "blockchain",
+            "value": "13",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "blockchain",
+            "value": "11",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "blockchain",
+            "value": "23",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "blockchain",
+            "value": "17",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "blockchain",
+            "value": "12",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "blockchain",
+            "value": "19",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "blockchain",
+            "value": "15",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "blockchain",
+            "value": "26",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "blockchain",
+            "value": "23",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "blockchain",
+            "value": "15",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "blockchain",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "blockchain",
+            "value": "9",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "BMW",
+            "value": "11",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "Bologna",
+            "value": "13",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "Bologna",
+            "value": "15",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "Bologna",
+            "value": "11",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Bologna",
+            "value": "12",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Bologna",
+            "value": "54",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Bologna",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "bot",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Bruxelles",
+            "value": "18",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Burelli",
+            "value": "14",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "business",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "business",
+            "value": "9",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "business",
+            "value": "25",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "business",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "business",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "business",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "cacciamilitari",
+            "value": "9",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Calcio",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Call4Code",
+            "value": "6",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "CallforCod",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "cambiamento",
+            "value": "30",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "cambiamento",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "CapitaleUmano",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Capitalismo",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Catania",
+            "value": "6",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "CEO",
+            "value": "8",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Chabot",
+            "value": "7",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "chatbot",
+            "value": "8",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "chatbot",
+            "value": "12",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "chatbot",
+            "value": "12",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "chatbot",
+            "value": "8",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "chatbot",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "chatbot",
+            "value": "7",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "chatbot",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "chatbot",
+            "value": "11",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "chatbot",
+            "value": "59",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "chatbot",
+            "value": "11",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "chatbot",
+            "value": "10",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "chatbot",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "CIMON",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Cina",
+            "value": "18",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Cina",
+            "value": "17",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Cina",
+            "value": "6",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Cina",
+            "value": "15",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Cina",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Cina",
+            "value": "9",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "Cloud",
+            "value": "16",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "Cloud",
+            "value": "8",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Cloud",
+            "value": "27",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Cloud",
+            "value": "33",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Cloud",
+            "value": "45",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Cloud",
+            "value": "6",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "Cloud",
+            "value": "7",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "Cloud",
+            "value": "18",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "Cloud",
+            "value": "17",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Cloud",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "Cloud",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "Cloud",
+            "value": "16",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Cloud",
+            "value": "43",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Cloud",
+            "value": "19",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Cloud",
+            "value": "9",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Cloud",
+            "value": "22",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Cloud",
+            "value": "9",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "Cloud",
+            "value": "26",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "Cloud",
+            "value": "18",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Cloud",
+            "value": "13",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "Cloud",
+            "value": "14",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "CloudfInnovation",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Cloudofinnovation",
+            "value": "8",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Cloudofinnovation",
+            "value": "22",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Cloudofinnovation",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Cnr",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Cognitive",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "CognitiveHack",
+            "value": "7",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "CommissioneEuropea",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "competenze",
+            "value": "18",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "competenze",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "competenze",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Competenze40",
+            "value": "13",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "comunicazione",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "comunicazione",
+            "value": "25",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "ConnectedCity",
+            "value": "15",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "ConnectedCity",
+            "value": "10",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "connessione",
+            "value": "9",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "conseguenze",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "consulentefinanziario",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "consulenzafinanziaria",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "consulenzafinanziaria",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "conte",
+            "value": "93",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "conte",
+            "value": "13",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "conte",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "ConventionVar",
+            "value": "13",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "cosenza",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "CustomerEngagement",
+            "value": "14",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "CustomerExperience",
+            "value": "14",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "CustomerExperience",
+            "value": "8",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "cx",
+            "value": "8",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "cyberattack",
+            "value": "15",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "cyberattacks",
+            "value": "10",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Cyberresilience",
+            "value": "12",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "7",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "10",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "11",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "9",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "6",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "13",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "6",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "9",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "10",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "16",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "13",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "13",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "CyberRisk",
+            "value": "6",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "cybersecurity",
+            "value": "18",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "cybersecurity",
+            "value": "31",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "cybersecurity",
+            "value": "15",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "cybersecurity",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "daNONperdere",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Data",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "datadriven",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "datadriven",
+            "value": "9",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "DataDriven2018",
+            "value": "6",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "DataDrivenInnovation",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "datanotebook",
+            "value": "8",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "DataScience",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "DataScience",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "dati",
+            "value": "6",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "dati",
+            "value": "11",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "dati",
+            "value": "13",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "dati",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "dati",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "dati",
+            "value": "18",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "dati",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "dati",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "dati",
+            "value": "20",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "deeplearning",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "deeplearning",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "deeplearning",
+            "value": "8",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "deeplearning",
+            "value": "8",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "DEGW",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "DellEMCVirtualTour",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Detroit",
+            "value": "10",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "DialoghiScienzaEtica",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "digital",
+            "value": "10",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "digital",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "digital",
+            "value": "10",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "digitale",
+            "value": "19",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "digitale",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "digitale",
+            "value": "9",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "digitale",
+            "value": "12",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "digitale",
+            "value": "12",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "digitale",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "digitale",
+            "value": "8",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "digitale",
+            "value": "30",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "digitale",
+            "value": "13",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "digitali",
+            "value": "12",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "digitalizzazione",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "8",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "17",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "10",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "17",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "10",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "DigitalTransformation",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Disruption",
+            "value": "8",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "dl",
+            "value": "15",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "dl",
+            "value": "8",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "dm18",
+            "value": "11",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "dm18",
+            "value": "7",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "Dock",
+            "value": "10",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "DX",
+            "value": "8",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "eCommerce",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "ecosistema",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "eduday",
+            "value": "6",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "EF18",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "eFattura",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "efficienzaenergetica",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "electriccars",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "ElectricVehicles",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Endeavor",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "EngelVoelkers",
+            "value": "6",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "EquityCrowdfunding",
+            "value": "15",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "escaperoom",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "etica",
+            "value": "8",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "etica",
+            "value": "15",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "etica",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "etica",
+            "value": "13",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Euclidea",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "EUDialogues",
+            "value": "10",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "EUDigital",
+            "value": "14",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Europa",
+            "value": "17",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Europa",
+            "value": "23",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Europa",
+            "value": "18",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "evagents",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "event",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Eventi",
+            "value": "8",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "ExplAIn",
+            "value": "8",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "ExplAIn",
+            "value": "26",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "EY",
+            "value": "13",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "FabSpace",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "facciaafaccia",
+            "value": "14",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "facilitymanagement",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "FamilyBusinessFestival",
+            "value": "6",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "FCA",
+            "value": "8",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "FedericoPerrero",
+            "value": "7",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "FestivalEconomia",
+            "value": "9",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "FestivalEconomia",
+            "value": "29",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "FestivalEconomia",
+            "value": "25",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "FestivalEconomia",
+            "value": "23",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "FestivalEconomia",
+            "value": "10",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "FestivalSviluppoSostenibile",
+            "value": "7",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "fiducia",
+            "value": "10",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "fiducia",
+            "value": "15",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "finanza",
+            "value": "9",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "Fintech",
+            "value": "67",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Fintech",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Fintech",
+            "value": "17",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Fintech",
+            "value": "6",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "Fintech",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "Fintech",
+            "value": "8",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "Fintech",
+            "value": "14",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "Fintech",
+            "value": "8",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Fintech",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Fintech",
+            "value": "9",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "followaliceai",
+            "value": "14",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "followaliceai",
+            "value": "7",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "Ford",
+            "value": "12",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Ford",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "ForumAscosim",
+            "value": "11",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "FORUMPA2018",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "FORUMPA2018",
+            "value": "18",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "FORUMPA2018",
+            "value": "45",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "FrancescaRossi",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Freeman",
+            "value": "6",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "FUD",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "future",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "futuro",
+            "value": "17",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "futuro",
+            "value": "16",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "futuro",
+            "value": "8",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "futuro",
+            "value": "13",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "futuro",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "futuro",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "futuro",
+            "value": "20",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "GCI",
+            "value": "6",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "GDPR",
+            "value": "41",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "GDPR",
+            "value": "6",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "GDPR",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "genderbias",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "gendergap",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "gestionedelleinformazioni",
+            "value": "10",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "GianmarioVerona",
+            "value": "6",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "GM",
+            "value": "12",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Google",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Google",
+            "value": "14",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Google",
+            "value": "11",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "Google",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "Google",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Google",
+            "value": "16",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Google",
+            "value": "7",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Google",
+            "value": "14",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "Google",
+            "value": "15",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Google",
+            "value": "8",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Google",
+            "value": "8",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "GoogleCloudSummit",
+            "value": "25",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Governo",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Healthcare",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Healthcare",
+            "value": "8",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "HiTech",
+            "value": "8",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "HomeWorking",
+            "value": "10",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "HomoCyborg",
+            "value": "9",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "HomoPremium",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "HPEItalanSummit",
+            "value": "15",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "HPEItalianSummit",
+            "value": "22",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "hpereimagine",
+            "value": "33",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "HR",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Huawei",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Huawei",
+            "value": "6",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "HuaweiMate10Pro",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "HuaweiP20Pro",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "HumansofPASocial",
+            "value": "7",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "IA",
+            "value": "6",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "IA",
+            "value": "10",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "IA",
+            "value": "29",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "IA",
+            "value": "10",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "IA",
+            "value": "28",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "IA",
+            "value": "13",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "IA",
+            "value": "13",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "IA",
+            "value": "11",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "IA",
+            "value": "12",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "IA",
+            "value": "6",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "IA",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "IA",
+            "value": "20",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "IA",
+            "value": "8",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "IA",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "IA",
+            "value": "32",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IA",
+            "value": "10",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "IA",
+            "value": "19",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "IA",
+            "value": "11",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "IA",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "IBM",
+            "value": "10",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "IBM",
+            "value": "12",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "IBM",
+            "value": "11",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "IBM",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "IBM",
+            "value": "29",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "IBM",
+            "value": "47",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "IBM",
+            "value": "83",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "IBM",
+            "value": "13",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "IBM",
+            "value": "11",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "IBM",
+            "value": "20",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "IBM",
+            "value": "22",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "IBM",
+            "value": "18",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "IBM",
+            "value": "17",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "IBM",
+            "value": "32",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "IBM",
+            "value": "70",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "IBM",
+            "value": "98",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IBM",
+            "value": "35",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "IBM",
+            "value": "37",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "IBM",
+            "value": "19",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "IBM",
+            "value": "17",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "IBM",
+            "value": "20",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "IBM",
+            "value": "13",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "IBM",
+            "value": "6",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "IBM",
+            "value": "58",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "IBM",
+            "value": "16",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "IBM",
+            "value": "10",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "IBMAvery",
+            "value": "12",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "IBMcloud",
+            "value": "13",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "IBMcloud",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IBMthinkMagazine",
+            "value": "8",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "IBMthinkMagazine",
+            "value": "11",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "IBMWatson",
+            "value": "10",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "ICT",
+            "value": "8",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "immobili",
+            "value": "10",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "immobili",
+            "value": "6",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "industria",
+            "value": "45",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "industria",
+            "value": "7",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Industria40",
+            "value": "13",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Industria40",
+            "value": "9",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "informazioni",
+            "value": "11",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "innovation",
+            "value": "13",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "innovation",
+            "value": "24",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "innovation",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "InnovationDays",
+            "value": "8",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "innovatori",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "innovazione",
+            "value": "13",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "innovazione",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "innovazione",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "innovazione",
+            "value": "16",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "innovazione",
+            "value": "12",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "innovazione",
+            "value": "21",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "innovazione",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "innovazione",
+            "value": "28",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "innovazione",
+            "value": "24",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "innovazione",
+            "value": "43",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "innovazione",
+            "value": "25",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "innovazione",
+            "value": "13",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "innovazione",
+            "value": "6",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "innovazione",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "innovazione",
+            "value": "25",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "innovazione",
+            "value": "10",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "innovazione",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "InsiderDevTour",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Insurtech",
+            "value": "6",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Integrazione",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "IntelligenceArtificielle",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "IntelligentDataManagement",
+            "value": "9",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "9",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "8",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "6",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "9",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "11",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "8",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Intelligenza",
+            "value": "10",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "34",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "49",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "17",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "29",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "33",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "40",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "44",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "64",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "22",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "9",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "8",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "25",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "30",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "36",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "33",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "21",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "58",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "46",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "38",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "30",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "44",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "26",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "66",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "19",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "11",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "33",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "61",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "46",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "52",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "52",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "16",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "IntelligenzaArtificiale",
+            "value": "13",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "intelligenzaaumentata",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "internetofthings",
+            "value": "9",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "internetofthings",
+            "value": "10",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "IOT",
+            "value": "11",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "IOT",
+            "value": "13",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "IOT",
+            "value": "15",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "IOT",
+            "value": "23",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "IOT",
+            "value": "18",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "IOT",
+            "value": "9",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "IOT",
+            "value": "11",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "IOT",
+            "value": "6",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "IOT",
+            "value": "11",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "IOT",
+            "value": "15",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "IOT",
+            "value": "23",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "IOT",
+            "value": "18",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "IOT",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "IOT",
+            "value": "22",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "IOT",
+            "value": "25",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "IOT",
+            "value": "26",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IOT",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "IOT",
+            "value": "13",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "IOT",
+            "value": "11",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "IOT",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "IOT",
+            "value": "32",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "IOT",
+            "value": "39",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "IOT",
+            "value": "39",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "IOT",
+            "value": "20",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "IOT",
+            "value": "17",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "IoTonWheels",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "ISS",
+            "value": "10",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "IT",
+            "value": "6",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "italia",
+            "value": "18",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "italia",
+            "value": "14",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "KeyCrime",
+            "value": "8",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Krause",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "LasVegas",
+            "value": "9",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "lavoro",
+            "value": "6",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "lavoro",
+            "value": "6",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "lavoro",
+            "value": "6",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "lean",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "lean",
+            "value": "7",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "Lecce",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "LibroBianco",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "13",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "9",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "16",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "13",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "9",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "LiveTalk",
+            "value": "9",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "LiveTv",
+            "value": "23",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "logistica",
+            "value": "9",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "M2M",
+            "value": "8",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "17",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "19",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "18",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "19",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "20",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "8",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "24",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "18",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "17",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "13",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "11",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "11",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "26",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "23",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "11",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "15",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "17",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "15",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "MachineLearning",
+            "value": "10",
+            "date": "2018-06-17"
+        },
+        {
+            "entity": "madeinitaly",
+            "value": "6",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Manufacturing",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Manufacturing",
+            "value": "10",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Manufacturing",
+            "value": "9",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Manufacturing",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Manufacturing",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "maratona",
+            "value": "8",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "maratona",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "marcellomassimini",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "mare",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Marketing",
+            "value": "6",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Marketing",
+            "value": "8",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Masa",
+            "value": "6",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "Maserati",
+            "value": "11",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "mef",
+            "value": "58",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Miami",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "Microsoft",
+            "value": "6",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Microsoft",
+            "value": "6",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "Milan",
+            "value": "9",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Milano",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Milano",
+            "value": "13",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Milano",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "ml",
+            "value": "15",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "ml",
+            "value": "9",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "Mobilit\u00e0",
+            "value": "7",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Modena",
+            "value": "6",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "Mondiali2018",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Mondiali2018",
+            "value": "7",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "Netgear",
+            "value": "13",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Norman",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "openinnovationetwork",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "ORA",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Ora2018",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "OracleAI",
+            "value": "10",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "Orchestrazione",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "PA",
+            "value": "19",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "PA",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "PA",
+            "value": "8",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Paesi",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Pagina3",
+            "value": "11",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "PagoPA",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "PaoloBarilla",
+            "value": "12",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "PaoloBarilla",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "PaoloMazza",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "parcovalentino",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "parigi",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "partner",
+            "value": "10",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "partner",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "PASocial",
+            "value": "15",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "PASocial",
+            "value": "19",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "PASocial",
+            "value": "15",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "PASocial",
+            "value": "21",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "PASocial",
+            "value": "13",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "PASocial",
+            "value": "14",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "PASocial",
+            "value": "61",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "PASocial",
+            "value": "207",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "PASocial",
+            "value": "18",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "PASocialDay",
+            "value": "14",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "PASocialDay",
+            "value": "9",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "PASocialDay",
+            "value": "24",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "pavillion",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Pepper",
+            "value": "10",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "personalizzazione",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "pieroangela",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "pluralismo",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "PMI",
+            "value": "15",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "PMI",
+            "value": "10",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "PMI",
+            "value": "15",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "PMI",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "PMI",
+            "value": "6",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "PMI",
+            "value": "11",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "poker",
+            "value": "8",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "politica",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "politica",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "privacy",
+            "value": "11",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "PrivateBanking",
+            "value": "7",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "procurement",
+            "value": "7",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "puntoimpresadigitale",
+            "value": "6",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "PureAccelerate",
+            "value": "8",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "QuantumComputing",
+            "value": "12",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "QuantumComputing",
+            "value": "14",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "QuantumComputing",
+            "value": "6",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "QuantumComputing",
+            "value": "15",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "R2B2018",
+            "value": "12",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "R2B2018",
+            "value": "14",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "R2B2018",
+            "value": "11",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "R2B2018",
+            "value": "17",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Rapallo2018",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Rapallo2018",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Realt\u00e0aumentata",
+            "value": "12",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "retail",
+            "value": "6",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "retail",
+            "value": "6",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "retail",
+            "value": "6",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "retail",
+            "value": "9",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "ricerca",
+            "value": "8",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Risk",
+            "value": "6",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "Risk",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "Risk",
+            "value": "6",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Risk",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Risk",
+            "value": "6",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Risk",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "riskmanagement",
+            "value": "9",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Roadshow",
+            "value": "7",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "RoboAdvisor",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "robot",
+            "value": "12",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "robot",
+            "value": "10",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "robot",
+            "value": "12",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "robot",
+            "value": "17",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "robot",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "robot",
+            "value": "7",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "robot",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "robot",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Robotica",
+            "value": "14",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Robotica",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Robotica",
+            "value": "7",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "Robotica",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Robotica",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Robotica",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "robotics",
+            "value": "6",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Robots",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "RogersShorts",
+            "value": "11",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "Roma",
+            "value": "17",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "RomaMAF",
+            "value": "13",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "RP",
+            "value": "6",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "RPA",
+            "value": "8",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "SaloneAutoTorino",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Sanit\u00e0",
+            "value": "22",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Sanit\u00e0",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "SASForumMilan",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "SASForumMilan",
+            "value": "8",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "SaveTheDate",
+            "value": "8",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Savona",
+            "value": "58",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "security",
+            "value": "10",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "security",
+            "value": "18",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "SecurityIntelligence",
+            "value": "7",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "securitysummit",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "sensetime",
+            "value": "6",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "sfideIA",
+            "value": "7",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "sfideIA",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "shopping",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "sicurezza",
+            "value": "16",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "sicurezza",
+            "value": "9",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "simposioafi2018",
+            "value": "17",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Sion",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "smartcity",
+            "value": "9",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "smartcity",
+            "value": "7",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "smartcity",
+            "value": "11",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "smartcity",
+            "value": "11",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "smartcity",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "smartcity",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "smartcity",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "smartcity",
+            "value": "12",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "smartcity",
+            "value": "19",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "smartcity",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "smartcity",
+            "value": "10",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "smartphone",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "SmartWorking",
+            "value": "11",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Smau",
+            "value": "20",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "Smau",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "SMWmilan",
+            "value": "8",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "social",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Sociodelmese",
+            "value": "7",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Softbank",
+            "value": "12",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "sotn18",
+            "value": "69",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "sotn18",
+            "value": "10",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "SpazioAttivo",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "SpazioiTech",
+            "value": "13",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "speaker",
+            "value": "9",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "spesa",
+            "value": "6",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Spid",
+            "value": "9",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "sport",
+            "value": "13",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "sport",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "sport",
+            "value": "11",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "sport",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "sport",
+            "value": "9",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "StartUp",
+            "value": "16",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "StartUp",
+            "value": "21",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "StartUp",
+            "value": "6",
+            "date": "2018-05-20"
+        },
+        {
+            "entity": "StartUp",
+            "value": "11",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "StartUp",
+            "value": "11",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "StartUp",
+            "value": "12",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "StartUp",
+            "value": "22",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "StartUp",
+            "value": "16",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "StartUp",
+            "value": "16",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "StartUp",
+            "value": "12",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "StartUp",
+            "value": "18",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "StartUp",
+            "value": "8",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "StartUp",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "StartUp",
+            "value": "6",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "StartUp",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "StartUp",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "StartUp",
+            "value": "12",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "StartUp",
+            "value": "9",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "StartUp",
+            "value": "8",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "StartUp",
+            "value": "15",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "StartUp",
+            "value": "8",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "StartupDay2018",
+            "value": "15",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "StartUpMag",
+            "value": "22",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "STEAM",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "stem",
+            "value": "6",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "StudENTforAfrica",
+            "value": "10",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "supercomputer",
+            "value": "24",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "supercomputer",
+            "value": "9",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "sviluppatori",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "taskforceIA",
+            "value": "15",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "tech",
+            "value": "10",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "tech",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "tech",
+            "value": "22",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "tech",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "tech",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "techdata",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "techhub",
+            "value": "8",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Technology",
+            "value": "8",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Technology",
+            "value": "10",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "TechnologyHub",
+            "value": "13",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "TechnologyHub",
+            "value": "7",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "TechTrends",
+            "value": "6",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "TechTrends",
+            "value": "9",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "7",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "8",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "8",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "9",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "10",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "14",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "11",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "Tecnologia",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "tecnologie",
+            "value": "7",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "tecnologie",
+            "value": "12",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "tecnologie",
+            "value": "10",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "tecnologie",
+            "value": "9",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "tecnologie",
+            "value": "9",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "TEDxMacerata",
+            "value": "19",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "TEDxRoma",
+            "value": "8",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "TEDxRoma",
+            "value": "6",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "tedxroma2018",
+            "value": "8",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "TedXVarese",
+            "value": "20",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "Tesla",
+            "value": "9",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "Tesla",
+            "value": "8",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "ThinkLive",
+            "value": "7",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "14",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "33",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "19",
+            "date": "2018-05-19"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "7",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "293",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "42",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "27",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "9",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "17",
+            "date": "2018-05-27"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "17",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "11",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "164",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "26",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "13",
+            "date": "2018-06-02"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "20",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "32",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "140",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "216",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "85",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "82",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "28",
+            "date": "2018-06-09"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "15",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "13",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "8",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "ThinkMilano",
+            "value": "6",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "ThinkTank",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "ThinkTank",
+            "value": "12",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "TIBCOInnovationDay",
+            "value": "7",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "Torino",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Torino",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "transazioni",
+            "value": "6",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "TrasformazioneDigitale",
+            "value": "15",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Trento",
+            "value": "7",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "Uber",
+            "value": "10",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "UE",
+            "value": "16",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "UE",
+            "value": "11",
+            "date": "2018-06-15"
+        },
+        {
+            "entity": "universit\u00e0",
+            "value": "7",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Usa",
+            "value": "17",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "Usa",
+            "value": "17",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Usa",
+            "value": "7",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Usa",
+            "value": "9",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Userbot",
+            "value": "17",
+            "date": "2018-05-18"
+        },
+        {
+            "entity": "Userbot",
+            "value": "9",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Userbot",
+            "value": "10",
+            "date": "2018-05-26"
+        },
+        {
+            "entity": "Userbot",
+            "value": "8",
+            "date": "2018-05-29"
+        },
+        {
+            "entity": "utilities",
+            "value": "7",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "UX",
+            "value": "6",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "VeeamONForum",
+            "value": "35",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Vidiemme",
+            "value": "9",
+            "date": "2018-05-17"
+        },
+        {
+            "entity": "volto",
+            "value": "8",
+            "date": "2018-05-28"
+        },
+        {
+            "entity": "VR",
+            "value": "15",
+            "date": "2018-06-03"
+        },
+        {
+            "entity": "VR",
+            "value": "8",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Watson",
+            "value": "9",
+            "date": "2018-05-23"
+        },
+        {
+            "entity": "Watson",
+            "value": "7",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "Watson",
+            "value": "11",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "Watson",
+            "value": "9",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "Watson",
+            "value": "42",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Watson",
+            "value": "7",
+            "date": "2018-06-07"
+        },
+        {
+            "entity": "Watson",
+            "value": "7",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Watson",
+            "value": "8",
+            "date": "2018-06-10"
+        },
+        {
+            "entity": "Watson",
+            "value": "10",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "Watson",
+            "value": "9",
+            "date": "2018-06-16"
+        },
+        {
+            "entity": "WatsonCommerce",
+            "value": "7",
+            "date": "2018-06-06"
+        },
+        {
+            "entity": "Waymo",
+            "value": "12",
+            "date": "2018-06-08"
+        },
+        {
+            "entity": "Waymo",
+            "value": "12",
+            "date": "2018-06-12"
+        },
+        {
+            "entity": "web",
+            "value": "16",
+            "date": "2018-05-22"
+        },
+        {
+            "entity": "web",
+            "value": "6",
+            "date": "2018-06-05"
+        },
+        {
+            "entity": "webinar",
+            "value": "13",
+            "date": "2018-05-30"
+        },
+        {
+            "entity": "webinar",
+            "value": "8",
+            "date": "2018-05-31"
+        },
+        {
+            "entity": "webinar",
+            "value": "15",
+            "date": "2018-06-01"
+        },
+        {
+            "entity": "webinar",
+            "value": "10",
+            "date": "2018-06-04"
+        },
+        {
+            "entity": "webinar",
+            "value": "8",
+            "date": "2018-06-11"
+        },
+        {
+            "entity": "webinar",
+            "value": "10",
+            "date": "2018-06-13"
+        },
+        {
+            "entity": "WeChangeIT",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "WNF18",
+            "value": "6",
+            "date": "2018-05-21"
+        },
+        {
+            "entity": "WNF18",
+            "value": "8",
+            "date": "2018-05-24"
+        },
+        {
+            "entity": "WNF18",
+            "value": "116",
+            "date": "2018-05-25"
+        },
+        {
+            "entity": "XT2018",
+            "value": "6",
+            "date": "2018-06-14"
+        },
+        {
+            "entity": "Zurich",
+            "value": "6",
+            "date": "2018-06-05"
+        }
+    ]
+}

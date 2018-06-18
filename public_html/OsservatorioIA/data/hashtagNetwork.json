@@ -1,0 +1,1836 @@
+{
+    "nodes": [
+        {
+            "id": "79721",
+            "label": "etica",
+            "weight": 2
+        },
+        {
+            "id": "5054",
+            "label": "AI",
+            "weight": 104
+        },
+        {
+            "id": "166144",
+            "label": "Russia2018WorldCup",
+            "weight": 1
+        },
+        {
+            "id": "44464",
+            "label": "Watson",
+            "weight": 9
+        },
+        {
+            "id": "174616",
+            "label": "bondora",
+            "weight": 1
+        },
+        {
+            "id": "7236",
+            "label": "BigData",
+            "weight": 15
+        },
+        {
+            "id": "25671",
+            "label": "ArtificialIntelligence",
+            "weight": 3
+        },
+        {
+            "id": "29319",
+            "label": "deeplearning",
+            "weight": 9
+        },
+        {
+            "id": "25669",
+            "label": "IBM",
+            "weight": 6
+        },
+        {
+            "id": "6052",
+            "label": "UE",
+            "weight": 3
+        },
+        {
+            "id": "23906",
+            "label": "Analytics",
+            "weight": 24
+        },
+        {
+            "id": "56480",
+            "label": "EquityCrowdfunding",
+            "weight": 1
+        },
+        {
+            "id": "104348",
+            "label": "lean",
+            "weight": 7
+        },
+        {
+            "id": "43848",
+            "label": "CyberRisk",
+            "weight": 10
+        },
+        {
+            "id": "29318",
+            "label": "Disruption",
+            "weight": 8
+        },
+        {
+            "id": "4368",
+            "label": "StartUp",
+            "weight": 10
+        },
+        {
+            "id": "171415",
+            "label": "GER",
+            "weight": 3
+        },
+        {
+            "id": "31101",
+            "label": "chatbot",
+            "weight": 3
+        },
+        {
+            "id": "33868",
+            "label": "bot",
+            "weight": 3
+        },
+        {
+            "id": "24389",
+            "label": "IntelligenzaArtificiale",
+            "weight": 23
+        },
+        {
+            "id": "174492",
+            "label": "crucchi",
+            "weight": 3
+        },
+        {
+            "id": "174478",
+            "label": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "id": "174493",
+            "label": "MEX",
+            "weight": 3
+        },
+        {
+            "id": "174494",
+            "label": "Irina",
+            "weight": 3
+        },
+        {
+            "id": "147100",
+            "label": "Pentagono",
+            "weight": 4
+        },
+        {
+            "id": "153428",
+            "label": "TedXVarese",
+            "weight": 22
+        },
+        {
+            "id": "120137",
+            "label": "SuperIntelligence",
+            "weight": 1
+        },
+        {
+            "id": "174510",
+            "label": "JamesCorden",
+            "weight": 1
+        },
+        {
+            "id": "174511",
+            "label": "MelissaMcCarthy",
+            "weight": 1
+        },
+        {
+            "id": "24966",
+            "label": "HiTech",
+            "weight": 2
+        },
+        {
+            "id": "16153",
+            "label": "MachineLearning",
+            "weight": 12
+        },
+        {
+            "id": "30740",
+            "label": "Insurtech",
+            "weight": 2
+        },
+        {
+            "id": "5208",
+            "label": "blockchain",
+            "weight": 4
+        },
+        {
+            "id": "139217",
+            "label": "imprenditore",
+            "weight": 5
+        },
+        {
+            "id": "139218",
+            "label": "imprenditoreDigitale",
+            "weight": 5
+        },
+        {
+            "id": "4508",
+            "label": "business",
+            "weight": 6
+        },
+        {
+            "id": "41524",
+            "label": "trend",
+            "weight": 5
+        },
+        {
+            "id": "159545",
+            "label": "Mondiali2018",
+            "weight": 5
+        },
+        {
+            "id": "94522",
+            "label": "SSN",
+            "weight": 1
+        },
+        {
+            "id": "101898",
+            "label": "cancro",
+            "weight": 1
+        },
+        {
+            "id": "90714",
+            "label": "Spagna",
+            "weight": 1
+        },
+        {
+            "id": "32965",
+            "label": "WorldCup",
+            "weight": 1
+        },
+        {
+            "id": "174491",
+            "label": "premiumsport",
+            "weight": 1
+        },
+        {
+            "id": "5131",
+            "label": "finalmente",
+            "weight": 2
+        },
+        {
+            "id": "41216",
+            "label": "IOTA",
+            "weight": 2
+        },
+        {
+            "id": "4958",
+            "label": "IOT",
+            "weight": 7
+        },
+        {
+            "id": "79718",
+            "label": "artificiale",
+            "weight": 1
+        },
+        {
+            "id": "79124",
+            "label": "Intelligenza",
+            "weight": 2
+        },
+        {
+            "id": "174425",
+            "label": "Sunspring",
+            "weight": 1
+        },
+        {
+            "id": "174429",
+            "label": "fondamentale",
+            "weight": 2
+        },
+        {
+            "id": "174428",
+            "label": "necessario",
+            "weight": 2
+        },
+        {
+            "id": "174430",
+            "label": "tassazione",
+            "weight": 2
+        },
+        {
+            "id": "174431",
+            "label": "ridistribuire",
+            "weight": 1
+        },
+        {
+            "id": "113361",
+            "label": "importanza",
+            "weight": 2
+        },
+        {
+            "id": "25956",
+            "label": "IA",
+            "weight": 4
+        },
+        {
+            "id": "29713",
+            "label": "robot",
+            "weight": 5
+        },
+        {
+            "id": "167487",
+            "label": "Norman",
+            "weight": 2
+        },
+        {
+            "id": "8164",
+            "label": "Usa",
+            "weight": 4
+        },
+        {
+            "id": "16257",
+            "label": "Russia",
+            "weight": 1
+        },
+        {
+            "id": "42324",
+            "label": "l",
+            "weight": 1
+        },
+        {
+            "id": "104384",
+            "label": "Mondiali",
+            "weight": 2
+        },
+        {
+            "id": "5935",
+            "label": "apple",
+            "weight": 4
+        },
+        {
+            "id": "5937",
+            "label": "iphone",
+            "weight": 1
+        },
+        {
+            "id": "27071",
+            "label": "ios",
+            "weight": 2
+        },
+        {
+            "id": "91639",
+            "label": "pcexpander",
+            "weight": 1
+        },
+        {
+            "id": "24888",
+            "label": "AR",
+            "weight": 3
+        },
+        {
+            "id": "4731",
+            "label": "tech",
+            "weight": 1
+        },
+        {
+            "id": "123349",
+            "label": "progetti",
+            "weight": 1
+        },
+        {
+            "id": "34818",
+            "label": "BIM",
+            "weight": 1
+        },
+        {
+            "id": "84719",
+            "label": "VirtualAssistant",
+            "weight": 1
+        },
+        {
+            "id": "174362",
+            "label": "strumenti",
+            "weight": 2
+        },
+        {
+            "id": "153893",
+            "label": "XiaomiRedmiS2",
+            "weight": 3
+        },
+        {
+            "id": "148448",
+            "label": "preordine",
+            "weight": 2
+        },
+        {
+            "id": "164335",
+            "label": "XiaomiMiBand3",
+            "weight": 2
+        },
+        {
+            "id": "114841",
+            "label": "GearBest",
+            "weight": 2
+        },
+        {
+            "id": "27883",
+            "label": "Xiaomi",
+            "weight": 1
+        },
+        {
+            "id": "103695",
+            "label": "premio",
+            "weight": 3
+        },
+        {
+            "id": "39976",
+            "label": "supercomputer",
+            "weight": 4
+        },
+        {
+            "id": "53757",
+            "label": "DigitalEvolution",
+            "weight": 2
+        },
+        {
+            "id": "25665",
+            "label": "Microsoft",
+            "weight": 3
+        },
+        {
+            "id": "148890",
+            "label": "Pescara",
+            "weight": 1
+        },
+        {
+            "id": "33123",
+            "label": "free",
+            "weight": 1
+        },
+        {
+            "id": "4933",
+            "label": "Google",
+            "weight": 9
+        },
+        {
+            "id": "38382",
+            "label": "Waymo",
+            "weight": 3
+        },
+        {
+            "id": "17079",
+            "label": "NASA",
+            "weight": 4
+        },
+        {
+            "id": "17213",
+            "label": "Video",
+            "weight": 4
+        },
+        {
+            "id": "28950",
+            "label": "autonomous",
+            "weight": 5
+        },
+        {
+            "id": "4487",
+            "label": "smartcity",
+            "weight": 5
+        },
+        {
+            "id": "172526",
+            "label": "IDCMobiz18",
+            "weight": 1
+        },
+        {
+            "id": "29155",
+            "label": "VR",
+            "weight": 1
+        },
+        {
+            "id": "91076",
+            "label": "smartcontract",
+            "weight": 1
+        },
+        {
+            "id": "174092",
+            "label": "MicrosoftProjectOlympus",
+            "weight": 1
+        },
+        {
+            "id": "174080",
+            "label": "QualcommXR1",
+            "weight": 1
+        },
+        {
+            "id": "174079",
+            "label": "HoloLens2",
+            "weight": 1
+        },
+        {
+            "id": "29501",
+            "label": "DataScience",
+            "weight": 1
+        },
+        {
+            "id": "28989",
+            "label": "ml",
+            "weight": 1
+        },
+        {
+            "id": "29825",
+            "label": "dl",
+            "weight": 1
+        },
+        {
+            "id": "55529",
+            "label": "StevenSpielberg",
+            "weight": 1
+        },
+        {
+            "id": "173712",
+            "label": "Facciamocome",
+            "weight": 2
+        },
+        {
+            "id": "173990",
+            "label": "IntelligenzaArtificialeGoogle",
+            "weight": 1
+        },
+        {
+            "id": "122242",
+            "label": "Gmail",
+            "weight": 1
+        },
+        {
+            "id": "150169",
+            "label": "CommissioneEuropea",
+            "weight": 2
+        },
+        {
+            "id": "89472",
+            "label": "WatsonIoT",
+            "weight": 2
+        },
+        {
+            "id": "173987",
+            "label": "socialengineering",
+            "weight": 2
+        },
+        {
+            "id": "173988",
+            "label": "digitalforensics",
+            "weight": 2
+        },
+        {
+            "id": "173989",
+            "label": "deepwebweb",
+            "weight": 2
+        },
+        {
+            "id": "138921",
+            "label": "Contentmedia",
+            "weight": 2
+        },
+        {
+            "id": "19783",
+            "label": "Socialmedia",
+            "weight": 2
+        },
+        {
+            "id": "81150",
+            "label": "blackbox",
+            "weight": 1
+        },
+        {
+            "id": "87892",
+            "label": "Assicurazioni",
+            "weight": 1
+        },
+        {
+            "id": "7397",
+            "label": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "id": "173961",
+            "label": "Mondiali_2018",
+            "weight": 2
+        },
+        {
+            "id": "25551",
+            "label": "Calcio",
+            "weight": 1
+        },
+        {
+            "id": "151157",
+            "label": "AssistenteDigitale",
+            "weight": 1
+        },
+        {
+            "id": "81177",
+            "label": "GoogleAssistant",
+            "weight": 1
+        },
+        {
+            "id": "170808",
+            "label": "InsiderDevTour",
+            "weight": 1
+        },
+        {
+            "id": "167720",
+            "label": "Invitalia",
+            "weight": 1
+        },
+        {
+            "id": "31454",
+            "label": "CloudComputing",
+            "weight": 1
+        },
+        {
+            "id": "19140",
+            "label": "content",
+            "weight": 1
+        },
+        {
+            "id": "4442",
+            "label": "news",
+            "weight": 1
+        },
+        {
+            "id": "30411",
+            "label": "engineering",
+            "weight": 1
+        },
+        {
+            "id": "4543",
+            "label": "Cnr",
+            "weight": 1
+        },
+        {
+            "id": "34922",
+            "label": "agi",
+            "weight": 1
+        },
+        {
+            "id": "35774",
+            "label": "Detroit",
+            "weight": 1
+        },
+        {
+            "id": "173901",
+            "label": "quandoimmaginiilfuturo",
+            "weight": 1
+        },
+        {
+            "id": "150955",
+            "label": "pregiudizi",
+            "weight": 1
+        },
+        {
+            "id": "173903",
+            "label": "pregiudizio",
+            "weight": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "etica",
+            "target": "IntelligenzaArtificiale",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Russia2018WorldCup",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Watson",
+            "weight": 9
+        },
+        {
+            "source": "AI",
+            "target": "bondora",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "BigData",
+            "weight": 3
+        },
+        {
+            "source": "AI",
+            "target": "ArtificialIntelligence",
+            "weight": 3
+        },
+        {
+            "source": "AI",
+            "target": "deeplearning",
+            "weight": 9
+        },
+        {
+            "source": "AI",
+            "target": "IBM",
+            "weight": 3
+        },
+        {
+            "source": "AI",
+            "target": "UE",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "Analytics",
+            "weight": 24
+        },
+        {
+            "source": "AI",
+            "target": "TedXVarese",
+            "weight": 11
+        },
+        {
+            "source": "AI",
+            "target": "MachineLearning",
+            "weight": 12
+        },
+        {
+            "source": "AI",
+            "target": "Insurtech",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "blockchain",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "business",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "finalmente",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "IOTA",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "IOT",
+            "weight": 7
+        },
+        {
+            "source": "AI",
+            "target": "IA",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "Usa",
+            "weight": 3
+        },
+        {
+            "source": "AI",
+            "target": "Mondiali",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "AR",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "supercomputer",
+            "weight": 4
+        },
+        {
+            "source": "AI",
+            "target": "Microsoft",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Pescara",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "free",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "NASA",
+            "weight": 4
+        },
+        {
+            "source": "AI",
+            "target": "Video",
+            "weight": 4
+        },
+        {
+            "source": "AI",
+            "target": "autonomous",
+            "weight": 5
+        },
+        {
+            "source": "AI",
+            "target": "smartcity",
+            "weight": 5
+        },
+        {
+            "source": "AI",
+            "target": "IDCMobiz18",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "VR",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "smartcontract",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "MicrosoftProjectOlympus",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "DataScience",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "ml",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "dl",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Contentmedia",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "Socialmedia",
+            "weight": 2
+        },
+        {
+            "source": "AI",
+            "target": "blackbox",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Assicurazioni",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Invitalia",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "CloudComputing",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "news",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "engineering",
+            "weight": 1
+        },
+        {
+            "source": "AI",
+            "target": "Detroit",
+            "weight": 1
+        },
+        {
+            "source": "BigData",
+            "target": "ArtificialIntelligence",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "deeplearning",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "CyberRisk",
+            "weight": 10
+        },
+        {
+            "source": "BigData",
+            "target": "Disruption",
+            "weight": 8
+        },
+        {
+            "source": "BigData",
+            "target": "StartUp",
+            "weight": 10
+        },
+        {
+            "source": "BigData",
+            "target": "MachineLearning",
+            "weight": 1
+        },
+        {
+            "source": "BigData",
+            "target": "fondamentale",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "necessario",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "tassazione",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "ridistribuire",
+            "weight": 1
+        },
+        {
+            "source": "BigData",
+            "target": "importanza",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "IA",
+            "weight": 3
+        },
+        {
+            "source": "BigData",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "BigData",
+            "target": "DataScience",
+            "weight": 1
+        },
+        {
+            "source": "ArtificialIntelligence",
+            "target": "deeplearning",
+            "weight": 3
+        },
+        {
+            "source": "ArtificialIntelligence",
+            "target": "MachineLearning",
+            "weight": 1
+        },
+        {
+            "source": "ArtificialIntelligence",
+            "target": "ml",
+            "weight": 1
+        },
+        {
+            "source": "ArtificialIntelligence",
+            "target": "dl",
+            "weight": 1
+        },
+        {
+            "source": "deeplearning",
+            "target": "MachineLearning",
+            "weight": 6
+        },
+        {
+            "source": "deeplearning",
+            "target": "ml",
+            "weight": 1
+        },
+        {
+            "source": "deeplearning",
+            "target": "dl",
+            "weight": 1
+        },
+        {
+            "source": "IBM",
+            "target": "WatsonIoT",
+            "weight": 2
+        },
+        {
+            "source": "UE",
+            "target": "IntelligenzaArtificiale",
+            "weight": 1
+        },
+        {
+            "source": "CyberRisk",
+            "target": "Disruption",
+            "weight": 8
+        },
+        {
+            "source": "CyberRisk",
+            "target": "StartUp",
+            "weight": 10
+        },
+        {
+            "source": "Disruption",
+            "target": "StartUp",
+            "weight": 8
+        },
+        {
+            "source": "GER",
+            "target": "chatbot",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "bot",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "IntelligenzaArtificiale",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "crucchi",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "GER",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "bot",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "IntelligenzaArtificiale",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "crucchi",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "chatbot",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "bot",
+            "target": "IntelligenzaArtificiale",
+            "weight": 3
+        },
+        {
+            "source": "bot",
+            "target": "crucchi",
+            "weight": 3
+        },
+        {
+            "source": "bot",
+            "target": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "source": "bot",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "bot",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "crucchi",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "robot",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "progetti",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "BIM",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "VirtualAssistant",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "premio",
+            "weight": 3
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "DigitalEvolution",
+            "weight": 2
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "Google",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "QualcommXR1",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "HoloLens2",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "StevenSpielberg",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "AssistenteDigitale",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "GoogleAssistant",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "InsiderDevTour",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "Cnr",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "pregiudizi",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificiale",
+            "target": "pregiudizio",
+            "weight": 2
+        },
+        {
+            "source": "crucchi",
+            "target": "GermaniaMessico",
+            "weight": 3
+        },
+        {
+            "source": "crucchi",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "crucchi",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "GermaniaMessico",
+            "target": "MEX",
+            "weight": 3
+        },
+        {
+            "source": "GermaniaMessico",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "MEX",
+            "target": "Irina",
+            "weight": 3
+        },
+        {
+            "source": "SuperIntelligence",
+            "target": "JamesCorden",
+            "weight": 1
+        },
+        {
+            "source": "SuperIntelligence",
+            "target": "MelissaMcCarthy",
+            "weight": 1
+        },
+        {
+            "source": "JamesCorden",
+            "target": "MelissaMcCarthy",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "IA",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "AR",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "supercomputer",
+            "weight": 4
+        },
+        {
+            "source": "MachineLearning",
+            "target": "IDCMobiz18",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "VR",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "DataScience",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "ml",
+            "weight": 1
+        },
+        {
+            "source": "MachineLearning",
+            "target": "dl",
+            "weight": 1
+        },
+        {
+            "source": "Insurtech",
+            "target": "blockchain",
+            "weight": 1
+        },
+        {
+            "source": "Insurtech",
+            "target": "IOT",
+            "weight": 1
+        },
+        {
+            "source": "Insurtech",
+            "target": "blackbox",
+            "weight": 1
+        },
+        {
+            "source": "Insurtech",
+            "target": "Assicurazioni",
+            "weight": 1
+        },
+        {
+            "source": "Insurtech",
+            "target": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "source": "blockchain",
+            "target": "imprenditore",
+            "weight": 3
+        },
+        {
+            "source": "blockchain",
+            "target": "imprenditoreDigitale",
+            "weight": 3
+        },
+        {
+            "source": "blockchain",
+            "target": "business",
+            "weight": 3
+        },
+        {
+            "source": "blockchain",
+            "target": "trend",
+            "weight": 3
+        },
+        {
+            "source": "imprenditore",
+            "target": "imprenditoreDigitale",
+            "weight": 5
+        },
+        {
+            "source": "imprenditore",
+            "target": "business",
+            "weight": 5
+        },
+        {
+            "source": "imprenditore",
+            "target": "trend",
+            "weight": 5
+        },
+        {
+            "source": "imprenditoreDigitale",
+            "target": "business",
+            "weight": 5
+        },
+        {
+            "source": "imprenditoreDigitale",
+            "target": "trend",
+            "weight": 5
+        },
+        {
+            "source": "business",
+            "target": "trend",
+            "weight": 5
+        },
+        {
+            "source": "business",
+            "target": "Pescara",
+            "weight": 1
+        },
+        {
+            "source": "business",
+            "target": "free",
+            "weight": 1
+        },
+        {
+            "source": "SSN",
+            "target": "cancro",
+            "weight": 1
+        },
+        {
+            "source": "Spagna",
+            "target": "WorldCup",
+            "weight": 1
+        },
+        {
+            "source": "Spagna",
+            "target": "premiumsport",
+            "weight": 1
+        },
+        {
+            "source": "WorldCup",
+            "target": "premiumsport",
+            "weight": 1
+        },
+        {
+            "source": "finalmente",
+            "target": "IOTA",
+            "weight": 2
+        },
+        {
+            "source": "finalmente",
+            "target": "IOT",
+            "weight": 2
+        },
+        {
+            "source": "IOTA",
+            "target": "IOT",
+            "weight": 2
+        },
+        {
+            "source": "IOT",
+            "target": "NASA",
+            "weight": 3
+        },
+        {
+            "source": "IOT",
+            "target": "Video",
+            "weight": 3
+        },
+        {
+            "source": "IOT",
+            "target": "autonomous",
+            "weight": 4
+        },
+        {
+            "source": "IOT",
+            "target": "smartcity",
+            "weight": 4
+        },
+        {
+            "source": "IOT",
+            "target": "blackbox",
+            "weight": 1
+        },
+        {
+            "source": "IOT",
+            "target": "Assicurazioni",
+            "weight": 1
+        },
+        {
+            "source": "IOT",
+            "target": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "source": "IOT",
+            "target": "Detroit",
+            "weight": 1
+        },
+        {
+            "source": "artificiale",
+            "target": "Intelligenza",
+            "weight": 1
+        },
+        {
+            "source": "Intelligenza",
+            "target": "Google",
+            "weight": 1
+        },
+        {
+            "source": "fondamentale",
+            "target": "necessario",
+            "weight": 2
+        },
+        {
+            "source": "fondamentale",
+            "target": "tassazione",
+            "weight": 2
+        },
+        {
+            "source": "fondamentale",
+            "target": "ridistribuire",
+            "weight": 1
+        },
+        {
+            "source": "fondamentale",
+            "target": "importanza",
+            "weight": 2
+        },
+        {
+            "source": "fondamentale",
+            "target": "IA",
+            "weight": 2
+        },
+        {
+            "source": "fondamentale",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "necessario",
+            "target": "tassazione",
+            "weight": 2
+        },
+        {
+            "source": "necessario",
+            "target": "ridistribuire",
+            "weight": 1
+        },
+        {
+            "source": "necessario",
+            "target": "importanza",
+            "weight": 2
+        },
+        {
+            "source": "necessario",
+            "target": "IA",
+            "weight": 2
+        },
+        {
+            "source": "necessario",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "tassazione",
+            "target": "ridistribuire",
+            "weight": 1
+        },
+        {
+            "source": "tassazione",
+            "target": "importanza",
+            "weight": 2
+        },
+        {
+            "source": "tassazione",
+            "target": "IA",
+            "weight": 2
+        },
+        {
+            "source": "tassazione",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "ridistribuire",
+            "target": "importanza",
+            "weight": 1
+        },
+        {
+            "source": "ridistribuire",
+            "target": "IA",
+            "weight": 1
+        },
+        {
+            "source": "ridistribuire",
+            "target": "robot",
+            "weight": 1
+        },
+        {
+            "source": "importanza",
+            "target": "IA",
+            "weight": 2
+        },
+        {
+            "source": "importanza",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "IA",
+            "target": "robot",
+            "weight": 2
+        },
+        {
+            "source": "IA",
+            "target": "DataScience",
+            "weight": 1
+        },
+        {
+            "source": "robot",
+            "target": "strumenti",
+            "weight": 2
+        },
+        {
+            "source": "robot",
+            "target": "DigitalEvolution",
+            "weight": 1
+        },
+        {
+            "source": "Russia",
+            "target": "l",
+            "weight": 1
+        },
+        {
+            "source": "Russia",
+            "target": "Mondiali",
+            "weight": 1
+        },
+        {
+            "source": "l",
+            "target": "Mondiali",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "iphone",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "ios",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "pcexpander",
+            "weight": 1
+        },
+        {
+            "source": "apple",
+            "target": "Google",
+            "weight": 3
+        },
+        {
+            "source": "apple",
+            "target": "Waymo",
+            "weight": 3
+        },
+        {
+            "source": "iphone",
+            "target": "ios",
+            "weight": 1
+        },
+        {
+            "source": "iphone",
+            "target": "pcexpander",
+            "weight": 1
+        },
+        {
+            "source": "ios",
+            "target": "pcexpander",
+            "weight": 1
+        },
+        {
+            "source": "ios",
+            "target": "IntelligenzaArtificialeGoogle",
+            "weight": 1
+        },
+        {
+            "source": "ios",
+            "target": "Gmail",
+            "weight": 1
+        },
+        {
+            "source": "AR",
+            "target": "tech",
+            "weight": 1
+        },
+        {
+            "source": "AR",
+            "target": "IDCMobiz18",
+            "weight": 1
+        },
+        {
+            "source": "AR",
+            "target": "VR",
+            "weight": 1
+        },
+        {
+            "source": "progetti",
+            "target": "BIM",
+            "weight": 1
+        },
+        {
+            "source": "preordine",
+            "target": "XiaomiMiBand3",
+            "weight": 2
+        },
+        {
+            "source": "preordine",
+            "target": "GearBest",
+            "weight": 2
+        },
+        {
+            "source": "preordine",
+            "target": "Xiaomi",
+            "weight": 1
+        },
+        {
+            "source": "XiaomiMiBand3",
+            "target": "GearBest",
+            "weight": 2
+        },
+        {
+            "source": "XiaomiMiBand3",
+            "target": "Xiaomi",
+            "weight": 1
+        },
+        {
+            "source": "GearBest",
+            "target": "Xiaomi",
+            "weight": 1
+        },
+        {
+            "source": "Microsoft",
+            "target": "Google",
+            "weight": 1
+        },
+        {
+            "source": "Microsoft",
+            "target": "Invitalia",
+            "weight": 1
+        },
+        {
+            "source": "Microsoft",
+            "target": "CloudComputing",
+            "weight": 1
+        },
+        {
+            "source": "Pescara",
+            "target": "free",
+            "weight": 1
+        },
+        {
+            "source": "Google",
+            "target": "Waymo",
+            "weight": 3
+        },
+        {
+            "source": "Google",
+            "target": "AssistenteDigitale",
+            "weight": 1
+        },
+        {
+            "source": "Google",
+            "target": "GoogleAssistant",
+            "weight": 1
+        },
+        {
+            "source": "Google",
+            "target": "agi",
+            "weight": 1
+        },
+        {
+            "source": "NASA",
+            "target": "Video",
+            "weight": 4
+        },
+        {
+            "source": "NASA",
+            "target": "autonomous",
+            "weight": 4
+        },
+        {
+            "source": "NASA",
+            "target": "smartcity",
+            "weight": 4
+        },
+        {
+            "source": "Video",
+            "target": "autonomous",
+            "weight": 4
+        },
+        {
+            "source": "Video",
+            "target": "smartcity",
+            "weight": 4
+        },
+        {
+            "source": "autonomous",
+            "target": "smartcity",
+            "weight": 5
+        },
+        {
+            "source": "autonomous",
+            "target": "Detroit",
+            "weight": 1
+        },
+        {
+            "source": "smartcity",
+            "target": "Detroit",
+            "weight": 1
+        },
+        {
+            "source": "IDCMobiz18",
+            "target": "VR",
+            "weight": 1
+        },
+        {
+            "source": "QualcommXR1",
+            "target": "HoloLens2",
+            "weight": 1
+        },
+        {
+            "source": "ml",
+            "target": "dl",
+            "weight": 1
+        },
+        {
+            "source": "IntelligenzaArtificialeGoogle",
+            "target": "Gmail",
+            "weight": 1
+        },
+        {
+            "source": "socialengineering",
+            "target": "digitalforensics",
+            "weight": 2
+        },
+        {
+            "source": "socialengineering",
+            "target": "deepwebweb",
+            "weight": 2
+        },
+        {
+            "source": "digitalforensics",
+            "target": "deepwebweb",
+            "weight": 2
+        },
+        {
+            "source": "Contentmedia",
+            "target": "Socialmedia",
+            "weight": 2
+        },
+        {
+            "source": "blackbox",
+            "target": "Assicurazioni",
+            "weight": 1
+        },
+        {
+            "source": "blackbox",
+            "target": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "source": "Assicurazioni",
+            "target": "cyberinsurance",
+            "weight": 1
+        },
+        {
+            "source": "AssistenteDigitale",
+            "target": "GoogleAssistant",
+            "weight": 1
+        },
+        {
+            "source": "Invitalia",
+            "target": "CloudComputing",
+            "weight": 1
+        },
+        {
+            "source": "news",
+            "target": "engineering",
+            "weight": 1
+        }
+    ]
+}
